@@ -10,3 +10,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+html{
+  font-size: 62.5%;
+}
+
+button{
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background: rgb(42, 42, 136);
+  color:white;
+  font-size: 3rem;
+  margin: 10px;
+}
